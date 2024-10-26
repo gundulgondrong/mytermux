@@ -174,3 +174,6 @@ alias zshthemeconf="nvim ~/.scripts/zsh/changetheme.sh"
 # Termux:API
 alias scan="termux-media-scan"
 alias open="termux-open"
+
+# Linux
+alias ubuntu="./ubuntu.sh"
