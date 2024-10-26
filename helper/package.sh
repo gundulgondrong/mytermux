@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 PACKAGES=(
-  bat curl clang exa fzf git inotify-tools lf mpd mpc neovim openssh
-  neofetch termux-api tmux zsh
+  bat curl clang exa fzf git neofetch        termux-api tmux zsh
 )
 
 function packages() {
